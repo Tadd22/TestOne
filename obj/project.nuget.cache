@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUQk1jzt5NrfvrC+tgoCsOctBed/7z6FRaF9ZGogdUAQaRsAnZqDgbUacEfNoUETe5gptcStkVpj/ntIljWt+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elitebook 1040 G3\\Desktop\\TestOne\\TestOne.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: No such host is known. (api.nuget.org:443)"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\bin\Debug\net8.0\TestOne.exe
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\bin\Debug\net8.0\TestOne.deps.json
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\bin\Debug\net8.0\TestOne.runtimeconfig.json
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\bin\Debug\net8.0\TestOne.dll
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\bin\Debug\net8.0\TestOne.pdb
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.AssemblyInfoInputs.cache
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.AssemblyInfo.cs
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.csproj.CoreCompileInputs.cache
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.dll
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\refint\TestOne.dll
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.pdb
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\TestOne.genruntimeconfig.cache
+C:\Users\Elitebook 1040 G3\Desktop\TestOne\obj\Debug\net8.0\ref\TestOne.dll
